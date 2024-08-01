@@ -3,7 +3,7 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][def]
 [![Leetcode](https://img.shields.io/badge/leetcode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=orange)][def1]
 
-- Tenho 21 anos e moro em Itajubá, MG - Brazil.
+- Tenho 22 anos e moro em Itajubá, MG - Brazil.
 - Atualmente estou me graduando em Sistemas de Informação pela [Universidade Federal de Itajubá][def2]
 
 <a href="https://github.com/github.com/github-readme-stats">
