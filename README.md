@@ -16,3 +16,5 @@
 [def]: https://www.linkedin.com/in/tomas-rossetto-lavez/
 [def1]: https://leetcode.com/tomlavez/
 [def2]: https://unifei.edu.br/
+
+.
