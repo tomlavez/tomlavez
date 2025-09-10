@@ -2,8 +2,9 @@
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][def]
 [![Leetcode](https://img.shields.io/badge/leetcode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=orange)][def1]
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-94199e?style=for-the-badge)][def2]
 
-- I'm 22 and currently living in Itajubá, MG - Brazil.
+- I'm 23 and currently living in Itajubá, MG - Brazil.
 
 <a href="https://github.com/github.com/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=tomlavez&show_icons=true&theme=neon" />
@@ -14,3 +15,4 @@
 
 [def]: https://www.linkedin.com/in/tomas-rossetto-lavez/
 [def1]: https://leetcode.com/tomlavez/
+[def2]: https://judge.beecrowd.com/en/profile/1174019
