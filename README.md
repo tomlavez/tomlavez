@@ -4,6 +4,7 @@
 [![Leetcode](https://img.shields.io/badge/leetcode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=orange)][def1]
 
 **Software Engineer | Backend & AI Developer**
+
 📍 Taubaté, SP, Brazil 🇧🇷 — Open to Remote Work
 
 I build scalable backend architectures and integrate Artificial Intelligence into production environments. My focus is on creating intelligent systems where robust engineering meets Generative AI and multi-agent solutions.
